@@ -1,4 +1,4 @@
-# automacao-e-gestao-energetica# Sistema de Gestão Inteligente - Colônia Aurora 🚀
+# Sistema de Gestão Inteligente - Colônia Aurora 🚀
 
 Este repositório contém o protótipo do sistema integrado de gerenciamento energético e tomada de decisão para a base espacial Aurora Siger.
 
